@@ -69,10 +69,8 @@ st.markdown("""
 with st.sidebar:
     st.title("🤖 Gemini Chatbot")
     st.markdown("""
-    **Cara Menggunakan:**
-    1. Ketik pertanyaan Anda di kotak teks
-    2. Tekan Enter atau klik tombol Kirim
-    3. Tunggu respon dari AI
+    **Apa itu Norabot?**
+    Norabot adalah aplikasi chatbot informasi tentang Kampus Merdeka yang memberikan penjelasan tentang pelaksanaan, persyaratan, dan program yang ada di Kampus Merdeka. Norabot adalah teman informasi kamu untuk segala hal terkait Kampus Merdeka!
     """)
     
     st.markdown("---")
