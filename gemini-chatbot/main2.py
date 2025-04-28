@@ -99,7 +99,7 @@ with st.sidebar:
     max_tokens = st.slider("Panjang Maksimum Jawaban", 100, 2000, 1000)
     
     st.markdown("---")
-    st.markdown("Made with ❤️ using Gemini API")
+    st.markdown("Made with ❤️ using Norabot")
 
 # Initialize chat history
 if "messages" not in st.session_state:
